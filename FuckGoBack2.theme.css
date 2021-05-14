@@ -1,0 +1,18 @@
+/**
+ * @name FuckGoBack
+ * @description Replaces the ugly new font with the old one. Thank me later.
+ * @author TheGreydiamond
+ * @version 1.0.0
+ * @website https://thegreydiamond.de
+ * @sosdurce https://github.com/TheGreyDiamond/Discord-GetTheOldFontBack
+ * @updatsadeUrl https://raw.githubusercontent.com/TheGreyDiamond/Discord-GetTheOldFontBack/main/GetTheOldFontBack2.theme.css
+ */
+ 
+:root {
+	--font-display:  Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+.reaction-1hd86g {
+	border: 0px none !important;
+	border-radius: .3rem !important;
+	
+}
